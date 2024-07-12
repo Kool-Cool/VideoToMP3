@@ -1,0 +1,4 @@
+docker = 26.1.4,
+kubectl = 
+minikube = 
+k9s = 
